@@ -1,0 +1,7 @@
+.box{
+display: box;
+width: 50px;
+height: 50px;
+background-color: liner-graident(red,yellow,blue);
+float:left;
+}
